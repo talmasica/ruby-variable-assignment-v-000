@@ -2,3 +2,4 @@
  # give it the value of the string "Hello World"
 puts "Hello World"
 puts phrase = "Hello World"
+greeting = phrase
